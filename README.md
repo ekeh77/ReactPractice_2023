@@ -20,3 +20,4 @@ Apr 27, State Practice part Two
 Apr 28, Recap
 May 01, Final Practice and Recap
 May 02, Props
+May 03, Memo
