@@ -100,3 +100,4 @@ May 11, Introduction
 May 13, useEffect
 May 15, Deps
 May 16, Recap
+May 22, Cleanup
