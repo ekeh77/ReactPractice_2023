@@ -113,3 +113,5 @@ Jun 01, Conclusions
 Jun 05, Styles
 Jun 06, Next Steps
 Jun 07, Introduction
+Jun 08, Requirements
+Jun 08, Theory Requirements
